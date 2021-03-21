@@ -1,0 +1,9 @@
+User-agent: *
+
+Sitemap: https://rico-woolever.github.io/sitemap_index.xml
+Sitemap: https://rico-woolever.github.io/sitemap/submap_1.xml
+Sitemap: https://rico-woolever.github.io/sitemap/submap_2.xml
+Sitemap: https://rico-woolever.github.io/sitemap/submap_3.xml
+Sitemap: https://rico-woolever.github.io/sitemap/submap_4.xml
+Sitemap: https://rico-woolever.github.io/sitemap/submap_5.xml
+Sitemap: https://rico-woolever.github.io/sitemap/submap_6.xml
